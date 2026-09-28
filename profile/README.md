@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The landing page of Quantevia is currently being built. Stay tuned!
+The public landing page of Quantevia is currently being built. Stay tuned!
 <!--
 
 **Here are some ideas to get you started:**
